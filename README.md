@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Doot Machine
 
-a brief description of your project goes here
+A makeshift music player with a few songs, using a micro:bit
